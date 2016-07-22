@@ -15,3 +15,5 @@ Git Commands:
   checkout -> move from one branch to another
   branch -> list all the branches locally or remotely
   merge -> merge one branch into another
+  fetch -> look for new changes in remote
+  pull -> bring changes from remote branch into local
